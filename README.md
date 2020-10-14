@@ -7,5 +7,5 @@ JavaSort
 - Selection sort
 ```
 
-See source code in the src folder.
+See source code in the src folder. <br>
 The bin folder is where compiled code is copied to (part of Eclipse).
