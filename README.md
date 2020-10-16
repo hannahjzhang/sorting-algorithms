@@ -1,5 +1,5 @@
 # sorting-algorithms
-A place to put my explorations with sorting
+A place to put my explorations with sorting. <br>
 Navigation
 ```
 JavaSort
