@@ -7,7 +7,8 @@ JavaSort
 - Insertion sort (2 methods)
 - Selection sort
 
-Heap Sort
+Heap Sort: based on binary trees
+Merge Sort: dividing into halves and then merging
 ```
 
 See source code in the src folder. <br>
