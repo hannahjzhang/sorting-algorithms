@@ -8,7 +8,10 @@ JavaSort
 - Selection sort
 
 Heap Sort: based on binary trees
+
 Merge Sort: dividing into halves and then merging
+
+Median: an application of quick sort using partition
 ```
 
 See source code in the src folder. <br>
